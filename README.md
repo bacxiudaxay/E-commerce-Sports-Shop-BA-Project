@@ -65,7 +65,7 @@ Traditional sports shops face operational challenges such as:
 
 
 ### Activity Diagram
-<img width="773" height="612" alt="Use Case diagram drawio" src="https://github.com/user-attachments/assets/9a194e6b-9d3a-487b-88b9-2f7f9f157741" />
+<img width="483" height="713" alt="Activity Diagram drawio" src="https://github.com/user-attachments/assets/9dba70de-9926-4fa0-8a6f-e0d19ac47f54" />
 
 
 ### Sequence Diagram
